@@ -1,0 +1,16 @@
+package java_project;
+
+public class FirstProgram {
+
+	public static void main(String[] args) {
+		
+		for (int i = 0; i <=10; i++) {
+			if(i == 5) {
+				System.out.println("Output is 5.");
+			}else {
+				System.out.println("Hello World");
+			}
+		}
+		
+	}
+}
